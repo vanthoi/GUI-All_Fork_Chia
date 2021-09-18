@@ -1,6 +1,7 @@
 # GUI-All_Fork_Chia
 This is a project that supports Coin Forks from Chia.
 They don't have a GUI yet, or the GUI has bugs.
+Some GUIs can view blocks and farmers on Alltheblock
 
 List of Forks that have built GUI: 
 - Achi GUI
