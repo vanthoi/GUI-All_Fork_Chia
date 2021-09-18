@@ -12,7 +12,7 @@ List of Forks that have built GUI:
 - Salvia GUI
 - Thyme GUI
 
-You can submit a build support request if the Fork does not have a GUI. 
+You can submit a build support request if the Fork does not have a GUI.
 Link to download GUI for Forks Windows version: https://mega.nz/folder/BWIVXK5J#neKm6U0HeP3bapeGIe-_mg
 
 If you like this project. Can support me by donation to the address for:
