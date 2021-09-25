@@ -11,9 +11,11 @@ List of Forks that have built GUI:
 - Mogua GUI
 - Salvia GUI
 - Thyme GUI
+- Peas GUI
+- Spare GUI
 
 You can submit a build support request if the Fork does not have a GUI.
-Link to download GUI for Forks Windows version: https://mega.nz/folder/BWIVXK5J#neKm6U0HeP3bapeGIe-_mg
+Link to download GUI for Forks Windows version: https://mega.nz/folder/1KJRyKqD#XbOlXyb44nFwtr22VyStWg
 
 If you like this project. Can support me by donation to the address for:
 - Chia: xch1t4g6mxruwh37uhwynh9cdxm2wa9l4hpl4sr0lmtf53tqwglt0wvqth30kj
