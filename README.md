@@ -2,6 +2,7 @@
 This is a project that supports Coin Forks from Chia.
 They don't have a GUI yet, or the GUI has bugs.
 Some GUIs can view blocks and farmers on Alltheblock
+View Farmer Scan time, View Full Node Region!
 
 List of Forks that have built GUI: 
 - Achi GUI
