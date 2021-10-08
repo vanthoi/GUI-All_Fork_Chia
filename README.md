@@ -15,6 +15,7 @@ List of Forks that have built GUI:
 - Peas GUI
 - Spare GUI
 - Stor GUI
+- Mint GUI
 
 You can submit a build support request if the Fork does not have a GUI.
 Link to download GUI for Forks Windows version: https://mega.nz/folder/FX4XhYYJ#kt10QRldUYYAqA1xmwJQMw
