@@ -19,7 +19,7 @@ List of Forks that have built GUI:
 - NChain GUI
 
 You can submit a build support request if the Fork does not have a GUI.
-Link to download GUI for Forks Windows version: https://mega.nz/folder/FX4XhYYJ#kt10QRldUYYAqA1xmwJQMw
+Link to download GUI for Forks Windows version: https://mega.nz/folder/UOhDXapT#MqB7mK0CwalQ-4P15Knn2A
 
 If you like this project. Can support me by donation to the address for:
 - Chia: xch1t4g6mxruwh37uhwynh9cdxm2wa9l4hpl4sr0lmtf53tqwglt0wvqth30kj
