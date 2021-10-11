@@ -17,6 +17,8 @@ List of Forks that have built GUI:
 - Stor GUI
 - Mint GUI
 - NChain GUI
+- Lotus GUI
+- Kujenga GUI
 
 You can submit a build support request if the Fork does not have a GUI.
 Link to download GUI for Forks Windows version: https://mega.nz/folder/UOhDXapT#MqB7mK0CwalQ-4P15Knn2A
